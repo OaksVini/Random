@@ -1,4 +1,4 @@
 # Random
 
-# Random numbers for a array.
-# Números aleatorios para um vetor.
+- Random numbers for a array.
+- Números aleatorios para um vetor.
